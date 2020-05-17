@@ -1,0 +1,424 @@
+==================================================
+Итерация #: 0
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 35s 353us/sample - loss: 2.3834
+Epoch 2/5
+99983/99983 [==============================] - 32s 324us/sample - loss: 1.9692
+Epoch 3/5
+99983/99983 [==============================] - 36s 363us/sample - loss: 1.7986
+Epoch 4/5
+99983/99983 [==============================] - 34s 337us/sample - loss: 1.6701
+Epoch 5/5
+99983/99983 [==============================] - 33s 335us/sample - loss: 1.5606
+Генерация из посева: me account
+me accounted to this stony and the fair courtes and the fair courtes and the fair courtes and the fair courtes==================================================
+Итерация #: 1
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 33s 329us/sample - loss: 1.4461
+Epoch 2/5
+99983/99983 [==============================] - 33s 327us/sample - loss: 1.3183
+Epoch 3/5
+99983/99983 [==============================] - 33s 334us/sample - loss: 1.1774
+Epoch 4/5
+99983/99983 [==============================] - 34s 338us/sample - loss: 1.0253
+Epoch 5/5
+99983/99983 [==============================] - 34s 336us/sample - loss: 0.8738
+Генерация из посева: , Lord Boh
+, Lord Bohemiared him to what I was enough:
+I think your way dis love from the guilty place, I will twlat to t==================================================
+Итерация #: 2
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 33s 328us/sample - loss: 0.7342
+Epoch 2/5
+99983/99983 [==============================] - 33s 328us/sample - loss: 0.6168
+Epoch 3/5
+99983/99983 [==============================] - 32s 324us/sample - loss: 0.5196
+Epoch 4/5
+99983/99983 [==============================] - 32s 324us/sample - loss: 0.4482
+Epoch 5/5
+99983/99983 [==============================] - 32s 323us/sample - loss: 0.3926
+Генерация из посева: ll come to
+ll come to see: do not, assure me have I found it:
+Or I of it may be with chafe, that say 'dings are wos tonch==================================================
+Итерация #: 3
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 33s 325us/sample - loss: 0.3551
+Epoch 2/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.3238
+Epoch 3/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.3015
+Epoch 4/5
+99983/99983 [==============================] - 32s 320us/sample - loss: 0.2879
+Epoch 5/5
+99983/99983 [==============================] - 32s 317us/sample - loss: 0.2694
+Генерация из посева:  on the po
+ on the poor thrumble night at his brother and some break together:
+But such a friend, I will have to tell her==================================================
+Итерация #: 4
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.2580
+Epoch 2/5
+99983/99983 [==============================] - 32s 317us/sample - loss: 0.2488
+Epoch 3/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.2413
+Epoch 4/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.2314
+Epoch 5/5
+99983/99983 [==============================] - 32s 317us/sample - loss: 0.2236
+Генерация из посева: and hellin
+and helling new and stubborn
+tox, I bear thy father's tales:
+No, Hamlet Rome, I love no penitent fierce office==================================================
+Итерация #: 5
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 317us/sample - loss: 0.2179
+Epoch 2/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.2132
+Epoch 3/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.2057
+Epoch 4/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.2039
+Epoch 5/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1973
+Генерация из посева: TIMON:
+Sta
+TIMON:
+Stay, and the sere hath dangerous,
+The masich pot me swear in the very veins, and to prose leatery unde==================================================
+Итерация #: 6
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 320us/sample - loss: 0.1968
+Epoch 2/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1908
+Epoch 3/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1881
+Epoch 4/5
+99983/99983 [==============================] - 33s 334us/sample - loss: 0.1840
+Epoch 5/5
+99983/99983 [==============================] - 33s 326us/sample - loss: 0.1817
+Генерация из посева: Anne Peric
+Anne Pericles' son, and even
+And open with their veins.
+
+KING LEAR:
+The pride of my old power upon the slave,
+==================================================
+Итерация #: 7
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1787
+Epoch 2/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1769
+Epoch 3/5
+99983/99983 [==============================] - 32s 320us/sample - loss: 0.1747
+Epoch 4/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1717
+Epoch 5/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1695
+Генерация из посева: L:
+Ip enam
+L:
+Ip enamoused in his babe, he is but the stroke
+Of my true amen is full of gold, I shall be saved,
+And rathe==================================================
+Итерация #: 8
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 33s 328us/sample - loss: 0.1687
+Epoch 2/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1634
+Epoch 3/5
+99983/99983 [==============================] - 32s 317us/sample - loss: 0.1636
+Epoch 4/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1613
+Epoch 5/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1595
+Генерация из посева: r country'
+r country's remedy,
+By Rome and the adverse occasions yet, our single wife subduce, and that he may
+Charge any==================================================
+Итерация #: 9
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 317us/sample - loss: 0.1580
+Epoch 2/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1552
+Epoch 3/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1545
+Epoch 4/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1528
+Epoch 5/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1513
+Генерация из посева: m suffer h
+m suffer her;
+Our doublet, if thou hast not been as he came.
+This heaged fiend and good time looks in sfellows==================================================
+Итерация #: 10
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1500
+Epoch 2/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1494
+Epoch 3/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1479
+Epoch 4/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1457
+Epoch 5/5
+99983/99983 [==============================] - 32s 322us/sample - loss: 0.1445
+Генерация из посева:  not fair,
+ not fair,
+She seng at toly man should have flatter'd and wind that physic pantion us
+Ranged the realm of Norf==================================================
+Итерация #: 11
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1440
+Epoch 2/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1426
+Epoch 3/5
+99983/99983 [==============================] - 32s 320us/sample - loss: 0.1410
+Epoch 4/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1401
+Epoch 5/5
+99983/99983 [==============================] - 33s 326us/sample - loss: 0.1387
+Генерация из посева:  conceited
+ conceited in the loss of praise more disjack
+As to say his fair guest of death,
+Or else my several and deed w==================================================
+Итерация #: 12
+Train on 99983 samples
+Epoch 1/5
+
+99983/99983 [==============================] - 32s 320us/sample - loss: 0.1385
+Epoch 2/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1374
+Epoch 3/5
+99983/99983 [==============================] - 32s 324us/sample - loss: 0.1366
+Epoch 4/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1357
+Epoch 5/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1343
+Генерация из посева: by all nat
+by all nat restitch bat asbanter for our horsemen: honour to thy reason and break these torns unto the noving ==================================================
+Итерация #: 13
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1349
+Epoch 2/5
+99983/99983 [==============================] - 33s 327us/sample - loss: 0.1339
+Epoch 3/5
+99983/99983 [==============================] - 32s 322us/sample - loss: 0.1322
+Epoch 4/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1327
+Epoch 5/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1315
+Генерация из посева: re by me t
+re by me that Milan would
+not know some lists on our masters, and eat
+That glory should I be wooing his love
+T==================================================
+Итерация #: 14
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1299
+Epoch 2/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1303
+Epoch 3/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1296
+Epoch 4/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1272
+Epoch 5/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1265
+Генерация из посева:  and show 
+ and show her;
+But where the joyful sovereign so, can characters,
+As lie  in the stare, for the blood I do bel==================================================
+Итерация #: 15
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 319us/sample - loss: 0.1274
+Epoch 2/5
+99983/99983 [==============================] - 33s 335us/sample - loss: 0.1260
+Epoch 3/5
+99983/99983 [==============================] - 34s 343us/sample - loss: 0.1259
+Epoch 4/5
+99983/99983 [==============================] - 33s 327us/sample - loss: 0.1251
+Epoch 5/5
+99983/99983 [==============================] - 33s 328us/sample - loss: 0.1242
+Генерация из посева: y lord; I 
+y lord; I will unliving to you.
+
+CASSIUS:
+I cannot pluck with thee,
+For 'tis so sweat, I saw them wrongfully
+t==================================================
+Итерация #: 16
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 34s 336us/sample - loss: 0.1240
+Epoch 2/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1236
+Epoch 3/5
+99983/99983 [==============================] - 32s 318us/sample - loss: 0.1210
+Epoch 4/5
+99983/99983 [==============================] - 34s 339us/sample - loss: 0.1224
+Epoch 5/5
+99983/99983 [==============================] - 34s 342us/sample - loss: 0.1223
+Генерация из посева:  say: you 
+ say: you are every beached and court-frails,
+I would instruct at them. If this look peace,
+Why it took her.
+
+==================================================
+Итерация #: 17
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 322us/sample - loss: 0.1218
+Epoch 2/5
+99983/99983 [==============================] - 32s 322us/sample - loss: 0.1206
+Epoch 3/5
+99983/99983 [==============================] - 32s 321us/sample - loss: 0.1206
+Epoch 4/5
+99983/99983 [==============================] - 33s 329us/sample - loss: 0.1206
+Epoch 5/5
+99983/99983 [==============================] - 34s 344us/sample - loss: 0.1205
+Генерация из посева: why he say
+why he says the fair and transgormance an hour that known,
+Therefore take thy holy stroke in queen!
+Good morro==================================================
+Итерация #: 18
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 322us/sample - loss: 0.1200
+Epoch 2/5
+99983/99983 [==============================] - 32s 322us/sample - loss: 0.1184
+Epoch 3/5
+99983/99983 [==============================] - 32s 321us/sample - loss: 0.1196
+Epoch 4/5
+99983/99983 [==============================] - 32s 321us/sample - loss: 0.1181
+Epoch 5/5
+99983/99983 [==============================] - 32s 322us/sample - loss: 0.1183
+Генерация из посева: m thind, '
+m thind, 'tis fled,
+And yet the better than your warning sister changed
+To stay to such a crest of light their==================================================
+Итерация #: 19
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 32s 325us/sample - loss: 0.1183
+Epoch 2/5
+99983/99983 [==============================] - 33s 326us/sample - loss: 0.1169
+Epoch 3/5
+99983/99983 [==============================] - 33s 328us/sample - loss: 0.1169
+Epoch 4/5
+99983/99983 [==============================] - 33s 334us/sample - loss: 0.1178
+Epoch 5/5
+99983/99983 [==============================] - 32s 324us/sample - loss: 0.1177
+Генерация из посева:  thee with
+ thee with the case.
+
+Boy:
+Hasty with me now lie joy to my draw?
+
+CRESSIDA:
+To stop the great it detection and==================================================
+Итерация #: 20
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 34s 339us/sample - loss: 0.1162
+Epoch 2/5
+99983/99983 [==============================] - 35s 348us/sample - loss: 0.1163
+Epoch 3/5
+99983/99983 [==============================] - 36s 363us/sample - loss: 0.1154
+Epoch 4/5
+99983/99983 [==============================] - 33s 326us/sample - loss: 0.1164
+Epoch 5/5
+99983/99983 [==============================] - 32s 324us/sample - loss: 0.1153
+Генерация из посева: he want al
+he want all unhappy strains become them I'll prologue the temple of it,
+I seek him basely like a fleety child.==================================================
+Итерация #: 21
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 33s 329us/sample - loss: 0.1141
+Epoch 2/5
+99983/99983 [==============================] - 32s 321us/sample - loss: 0.1141
+Epoch 3/5
+99983/99983 [==============================] - 33s 331us/sample - loss: 0.1132
+Epoch 4/5
+99983/99983 [==============================] - 33s 329us/sample - loss: 0.1152
+Epoch 5/5
+99983/99983 [==============================] - 33s 329us/sample - loss: 0.1130
+Генерация из посева: ldst not g
+ldst not grudge it forth,
+Or come again.
+
+KING CLAUDIUS:
+What offence they are as many hopes to be concluded, ==================================================
+Итерация #: 22
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 33s 329us/sample - loss: 0.1144
+Epoch 2/5
+99983/99983 [==============================] - 33s 329us/sample - loss: 0.1127
+Epoch 3/5
+99983/99983 [==============================] - 33s 329us/sample - loss: 0.1127
+Epoch 4/5
+99983/99983 [==============================] - 33s 330us/sample - loss: 0.1128
+Epoch 5/5
+99983/99983 [==============================] - 33s 329us/sample - loss: 0.1126
+Генерация из посева: efore he p
+efore he purged us at thy past.
+
+PANDARUS:
+So as you do?
+
+SPEED:
+My lord art thou of some army sens we lave 
+w==================================================
+Итерация #: 23
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 38s 376us/sample - loss: 0.1122
+Epoch 2/5
+99983/99983 [==============================] - 33s 332us/sample - loss: 0.1119
+Epoch 3/5
+99983/99983 [==============================] - 33s 327us/sample - loss: 0.1129
+Epoch 4/5
+99983/99983 [==============================] - 33s 329us/sample - loss: 0.1121
+Epoch 5/5
+99983/99983 [==============================] - 33s 328us/sample - loss: 0.1127
+Генерация из посева:  play
+With
+ play
+Without a witchcrafts,
+Perchance to find with two, and surgeons would I see
+For us did they are, thus, a==================================================
+Итерация #: 24
+Train on 99983 samples
+Epoch 1/5
+99983/99983 [==============================] - 33s 330us/sample - loss: 0.1114
+Epoch 2/5
+
+99983/99983 [==============================] - 33s 332us/sample - loss: 0.1117
+Epoch 3/5
+99983/99983 [==============================] - 33s 326us/sample - loss: 0.1104
+Epoch 4/5
+99983/99983 [==============================] - 33s 329us/sample - loss: 0.1104
+Epoch 5/5
+99983/99983 [==============================] - 33s 327us/sample - loss: 0.1110
+Генерация из посева: m my husba
+m my husband.
+
+MARK ANTONY:
+Thou dost digest you! If accident doth seen a seat
+:s not pray their patience.'
+
+K
